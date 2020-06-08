@@ -1,0 +1,10 @@
+name: LoupGarou-MC
+version: dev-a0.1
+author: Auretyube_YT
+main: fr.auretechno.lgmc.LGMain
+api-version: 1.15
+commands:
+  building-mode:
+    description: "Active/Desactive Building Mode"
+  reload-lgconfig:
+    description: "Reload Plugin Configuration"

@@ -1,0 +1,4 @@
+locations:
+  spawn: "world, 0.5, 12.8, 0.5"
+game:
+  playerSize: 2
