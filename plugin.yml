@@ -8,3 +8,5 @@ commands:
     description: "Active/Desactive Building Mode"
   reload-lgconfig:
     description: "Reload Plugin Configuration"
+  lg:
+    description: ""

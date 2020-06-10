@@ -27,7 +27,8 @@ public class BuildingModeCommandExecutor implements CommandExecutor {
 				Player player = (Player) sender;
 				if(player.isOp()) {
 					if(args.length == 0 || args.length >= 2) {
-						player.sendMessage("§2[§cAure§eTechno§2] §4La commande s'utilise comme ça /building-mode <on|off> !");
+						player.sendMessage(
+								"§2[§cAure§eTechno§2] §4La commande s'utilise comme ça /building-mode <on|off> !");
 					} else if(args.length == 1) {
 						if(args[0] == null) {
 							player.sendMessage("§2[§cAure§eTechno§2] §4La commande s'utilise comme ça /building-mode <on|off> !");

@@ -1,4 +1,7 @@
 locations:
   spawn: "world, 0.5, 12.8, 0.5"
+  playingPlaces:
+    place1: "world, 0.5, 11.5, 9.5"
+    place2: "world, 7.5, 11.5, 7.5"
 game:
   playerSize: 2
